@@ -1,13 +1,12 @@
 # Overview
 
-{Provide a description of the software that you wrote to demonstrate the C# language.}
 The program that I wrote to demonstrate the C#language was a beginning to a dating story adventure game called BYU-I-DO where you go through a few sceneros and you choose where you go until you hit a script to wait until the next chapters come out.
 
 I wrote this to freshen up on C# since it has been a whil since I have coded in C# and it allowed me to keep up my practice and skills.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7mseUzG_d9A)
 
 # Development Environment
 
